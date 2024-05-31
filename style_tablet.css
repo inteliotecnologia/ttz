@@ -1,0 +1,86 @@
+
+/* --- estado 2 --- */
+@media (max-width: 1200px) {
+	#sidebar_container.affix {
+	 	width:300px;
+	}
+	
+	.nome_clinica {
+	
+		font-size: 14px;
+	}
+	.clinica_grupo .dropdown-menu {
+		width: 300px;
+	}
+}
+
+/* --- estado 3 --- */
+@media (max-width: 980px) {
+	
+	.ultima_alteracao {
+		right: 135px !important;
+	}
+	.muda_mes {
+		padding-left:8px !important;
+		padding-right: 8px !important;
+	}
+	.nome_clinica {
+		font-size: 11px;
+	}
+	.clinica_grupo .dropdown-menu {
+		width: 246px;
+	}
+	.nome_clinica_opcoes {
+		padding: 9px 11px;
+	}
+	#calendario {
+		padding: 0 2% !important;
+		width: 96% !important;
+	}
+	
+	#sidebar_container.affix {
+	 	width:228px;
+	}
+	#resultado_fim h4 {
+		font-size:20px !important;
+	}
+	.dentro .alert {
+		width: 34%;
+	}
+	.flexinha {
+		right: 130px;
+	}
+	.mes_atual.btn {
+		width: 42% !important;
+		font-size: 12px;
+		padding: auto 15px !important;
+	}
+	
+	.table-condensed th, .table-condensed td {
+		padding: 4px 4px;		
+	}
+	.table-condensed th {
+		font-size: 14px;
+	}
+	
+	.close {
+		font-size: 25px;
+	}
+	
+	#resultado_fim h4 {
+		font-size:18px;
+	}
+	#resultado_fim h5 {
+		font-size:16px;
+	}
+	.badge.badge-porcentagem {
+		padding: 4px 7px 4px 7px !important;
+	}
+	.badge-porcentagem small {
+		font-size:11.5px;
+	}
+	strong.mr {
+		font-size:13px !important;
+	}
+
+}

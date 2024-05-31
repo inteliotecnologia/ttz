@@ -1,0 +1,1233 @@
+
+a {
+	
+}
+
+.dropdown-backdrop {
+    position: static !important;
+}
+
+a.semu:hover, a.semu:focus {
+	text-decoration: none !important;
+}
+
+.pg_lancamento-lancamento .table th, .pg_lancamento-lancamento .table td {
+	border: none;
+}
+p {
+	line-height: 1.4 !important;
+}
+.navbar .btn.btn-navbar {
+	padding:12px 16px !important;
+}
+
+.clinica_grupo .dropdown-menu {
+	width: 368px;
+}
+.lca {
+	width: 130px;
+	float: left;
+}
+.feedback {
+	position: fixed;
+	width: 80px;
+	height: 40px;
+	bottom: 54px;
+	right: 25px;
+	font-size: 11px;
+	text-align: right;
+}
+.minimiza {
+	position: absolute;
+	right: 28px;
+	top: 25px;
+	display: none;
+}
+.minimiza_video {
+	top: 0 !important;
+}
+
+.fechado {
+	display: none;
+}
+
+h1,h2 {
+	letter-spacing: -1px;
+	font-weight: bold;
+}
+.fa-user-md {
+	width: 38px;
+}
+
+.botao_onde, .botao_quando {
+	text-align: left;
+}
+.botao_onde .caret, .botao_quando .caret, .calendario_container .icon-caret-right {
+	position: absolute;
+    right: 18px;
+}
+.calendario_container .icon-caret-right {
+	font-size: 10px;
+	right: 10px;
+}
+
+
+.nav-tabs > li > a, .nav-pills > li > a {
+	border-color: #efefef;
+	border-bottom: none;
+}
+.nav-tabs > li, .nav-pills > li {
+	margin-left: 8px;
+}
+
+.tab_interna li a i {
+	margin-top: 4px !important;
+}
+
+#modal_atendimento {
+	
+}
+
+#modal_atendimentos .modal-body {
+    height: 800px !important;
+    overflow-y: scroll !important;
+}
+#modal_atendimentos .media, #modal_historico .media {
+	background: #efefef;
+	padding: 8px 12px 12px 12px;
+}
+
+input, textarea {
+	border-width: 1px !important;
+}
+
+input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
+	color: #999 !important;
+	border: 1px solid #dedede;
+	
+}
+input[disabled], textarea[disabled] {
+	background-color: #fafafa !important;
+}
+input.tt-hint[disabled] {
+	background-color: transparent !important;
+}
+.lateral_pacientes .tt-dropdown-menu {
+	width: 400px;
+}
+
+a.btn.btn-success[disabled] {
+	background-color: #ccc !important;
+}
+
+.nav-collapse .nav > li > a, .nav-collapse .dropdown-menu a {
+	color:#fff;
+	
+}
+.navbar .nav > li > a {
+	
+}
+.navbar .nav > li > a.current {
+	background-color: #15A589;
+}
+.collapse.in {
+	overflow: visible;
+}
+#sidebar_container.affix {
+    top: 80px; 
+ 	width:368px;   
+}
+.help-block {
+	font-size: 80%;
+}
+.hero-unit {
+	padding: 40px 60px !important;
+}
+
+.btn-tipo_atendimento .btn.active {
+	color: #fff !important;
+	background: #2C3E50 !important;
+}
+.tt-ajuda {
+	margin: 4px 10px !important;
+	cursor: help;
+}
+.modal-header .close {
+	margin-top: -2px;
+}
+.aplicar_todos {
+	margin: 5px 0 0 10px;
+}
+.dentro .alert {
+	position: absolute;
+	right: 0;
+	width: 28%;
+	padding: 3px 33px 5px 14px !important;
+	margin-top:33px;
+}
+.alert h4 {
+	text-align: center;
+}
+.alert h4, .alert h5 {
+	font-size: 15px;
+}
+.alert .close {
+	top:4px !important;
+}
+
+.modal-header h4, .modal-header h5 {
+	margin: 0;
+	
+}
+.modal-backdrop, .modal-backdrop.fade.in {
+	opacity: 0.90;
+	background: #fff !important;
+}
+.modal.fade {
+	transition: opacity 0.1s linear 0.1s, top 0.1s ease-out 0.1s;
+}
+
+.typeahead,
+.tt-query,
+.tt-hint {
+  width: 396px;
+  height: 26px;
+  padding: 8px 11px;
+  font-size: 18px;
+  line-height: 23px;
+  border: 2px solid #ccc;
+  -webkit-border-radius: 8px;
+     -moz-border-radius: 8px;
+          border-radius: 8px;
+  
+}
+
+.typeahead {
+  background-color: #fff;
+}
+
+.typeahead:focus {
+  border: 2px solid #0097cf;
+}
+
+.tt-query {
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+     -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+}
+
+.tt-hint {
+  color: #999
+}
+.modal-body {
+	overflow-y: visible !important;
+}
+
+#atendimentos hr {
+	margin: 12px 0 13px 0;
+}
+
+.open > .dropdown-menu {
+	width: 100% !important;
+}
+
+.tt-dropdown-menu {
+  width: 526px;
+  margin-top: -4px;
+  padding: 8px 0;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-border-radius: 8px;
+     -moz-border-radius: 8px;
+          border-radius: 8px;
+  -webkit-box-shadow: 0 5px 10px rgba(0,0,0,.2);
+     -moz-box-shadow: 0 5px 10px rgba(0,0,0,.2);
+          box-shadow: 0 5px 10px rgba(0,0,0,.2);
+}
+
+.modal_atendimento_2 .tt-dropdown-menu {
+	width: 100% !important;
+	background-color: #45a1de;
+	color: #fff;
+}
+.modal_atendimento_2 .tt-dropdown-menu a:link, .modal_atendimento_2 .tt-dropdown-menu a:visited {
+	color: #fff !important;
+}
+
+.tt-suggestion {
+  padding: 3px 20px;
+  font-size: 16px;
+  line-height: 22px;
+  cursor: pointer;
+}
+
+.tt-suggestion.tt-cursor {
+  color: #fff;
+  background-color: #0097cf;
+
+}
+
+.tt-suggestion p {
+  margin: 0;
+}
+.paciente_nome {
+	float: left;
+	width: 65%;
+}
+.paciente_data_nasc {
+	font-size: 11px;
+	width: 30%;
+}
+.duracao {
+	display: none;
+	font-size: 36px;
+	letter-spacing: -1px;
+	margin: 10px 0 20px 0;
+}
+.duracao.te, .duracao.ts {
+	display: block;
+}
+.label_locais {
+	margin-bottom: 5px;
+	display: block;
+}
+#resultado_fim .tit_hoje, #resultado_fim .tit_acumulado {
+	margin-bottom:10px !important;
+}
+.select2-container-multi .select2-choices .select2-search-field {
+	height: 36px;
+}
+.calendario_container .dropdown-menu > li > a.edita_clinica {
+	padding-left: 20px !important;
+	padding-right: 12px !important;
+}
+.convenio_nome {
+	float: left;
+	width: 100%;
+}
+.convenio_tipo_convenio {
+	font-size: 11px;
+	width: 30%;
+}
+.edita_clinica {
+	position: absolute;
+	width: 22px;
+	right: 0;
+	margin-top: -30px;
+}
+
+.gist {
+  font-size: 14px;
+}
+
+#anamnese {
+	height: 265px;
+}
+
+
+.btn-detalhamento {
+	display: none;	
+}
+[class^="icon-"], [class*=" icon-"] {
+	background-image: none !important;
+}
+
+/*.tab-content, .collapse {overflow:visible !important;}*/
+
+* {
+	outline: none !important;
+	outline-width: 0 !important;
+}
+body .recaptchatable #recaptcha_response_field {
+	padding: 6px 2px !important;
+}
+html {
+	height: 100%;
+	width: 100%;
+}
+body {
+	padding-top: 80px;
+	font-size: 15px;
+	line-height: 18px !important;
+	background: #fff url(images/loading_white.gif) no-repeat center center;
+}
+body.pg_login, body.pg_cadastro {
+    display: table;
+    padding: 0;
+    width: 100%;
+	/*background-color: #efefef;*/
+	height: 100%;
+	/*border-top: 5px solid #18BC9C !important;*/
+	background-color: #18BC9C;
+	background-image: url(https://ttz.med.br/wp-content/themes/ttznovo/images/topo.jpg);
+	background-size: cover;
+	background-position: 0;
+	margin-bottom: 0;
+	
+	color: #fff !important;
+	
+}
+body.pg_login .container, body.pg_cadastro .container {
+	display: table-cell;
+	vertical-align: middle;
+}
+body.pg_cadastro .well.well-small {
+	background-color:rgba(255,255,255,0.5) !important;
+}
+h4 {
+	line-height: 30px;
+	letter-spacing: -0.25px;
+}
+.nav-tabs h4 {
+	font-size: 17px;
+	margin: 0;
+}
+.badge {
+	padding: 4px 8px;
+	border-radius: 6px;
+}
+.badge.badge-porcentagem {
+	background: #fff !important;
+	border: none !important;
+	color: #333;
+	float: right;
+	box-shadow: 1px 1px 2px #ccc;	
+	-webkit-box-shadow: 1px 1px 2px #ccc;
+	-moz-box-shadow: 1px 1px 2px #ccc;
+	
+	margin-top: 4px;
+    text-align: center;
+    width: 48px;
+}
+.well-1 .badge-porcentagem {
+	background: #FCFCFC;
+}
+.esqueci {
+	margin-top: 18px;
+	text-align: right;
+}
+.ato .label-mini {
+	margin-top: 6px;
+	font-size:10px;
+}
+strong.mr {
+	margin-top: 7px;	
+	font-weight: normal;
+	font-size: 13px;
+	margin-left: 5px;
+}
+.hero-unit h1, .hero-unit p {
+	margin-bottom: 15px;
+}
+.input-append .add-on, .input-prepend .add-on {
+	padding: 8px 5px 9px 5px;
+}
+.sidebar-nav ul li {
+	display:none;
+}
+.select2-container-multi .select2-choices .select2-search-field input {
+	width: 100% !important;
+}
+#topo i {
+	margin:4px 0 0 0 !important;
+	display:inline-block !important;
+}
+#topo .dropdown i {
+	
+}
+.sidebar-nav ul li:first-child {
+	display: block;
+}
+#footer {
+	/*display: none;*/
+	clear: both;
+}
+.btn-mini {
+	padding: 1px 8px 3px 8px !important;
+	font-size: 12.5px;
+}
+
+.vc_link {
+	position: absolute;
+	margin: 3px 0 0 0;
+	display: none;
+	padding: 1px 4px !important;
+	border-radius: 24px;
+	transition: none !important;
+	left: 10px;
+}
+.vc_link span.badge-porcentagem {
+	display: block;
+	margin-top:4px;
+}
+.vc_link:hover .badge-porcentagem {
+	/*color: #18BC9C;*/
+}
+.vc_link_atalho:hover .badge-porcentagem {
+	background: #18BC9C !important;
+	color: #fff !important;
+}
+
+.td_bg {
+	background: #efefef;
+}
+
+.btn-exclui_convenio, .btn-exclui_procedimento, .btn-edita_procedimento {
+	position: absolute;
+	margin: 6px 0 0 0;
+	left: 10px;
+	display: none;
+	padding: 1px 6px !important;
+	border-radius: 24px;
+	transition: none !important;
+}
+.btn-exclui_procedimento {
+	
+}
+.btn-edita_procedimento {
+	
+	left: 38px;
+}
+
+.btn-exclui_procedimento, .btn-edita_procedimento {
+	margin-top: 17px;
+}
+.btn.btn-exclui_procedimento:active, .btn.btn-edita_procedimento:active {
+	margin-top: 18px;
+}
+
+.dropdown-menu i {
+	 margin-top: 2px;
+	 margin-right: 4px;
+}
+.dropdown-menu.datepicker {
+	background-color: #fff !important;
+}
+
+
+.br {
+	/*border-right: 1px solid #ddd;*/
+}
+.well_medico {
+	padding-top: 20px !important;
+}
+.page_inner {
+	min-height: 500px;
+	/*padding-top: 60px;*/
+}
+.page_inner .page-header {
+	margin-top: 0 !important;
+	margin-bottom: 20px;
+}
+
+.ato {
+	/*max-height: 350px;
+	overflow-x: hidden;
+	overflow-y: scroll;*/
+	padding-top: 10px;
+}
+#formPaciente .modal-body {
+	overflow-y: inherit !important;
+}
+.table .input-prepend, .table .input-append {
+	margin-bottom: 0 !important;
+}
+.input-block-level {
+	min-height: 40px !important;
+}
+
+.clinica_nome {
+	margin-left: 10px;
+}
+.clinica_nome small {
+	margin-top: 12px;
+	display: inline-block;
+}
+
+#modal_paciente {
+	z-index: 2000 !important;
+}
+
+.modal-header {
+	-webkit-border-top-left-radius: 6px;
+	-moz-border-radius-topleft: 6px;
+	border-top-left-radius: 6px;
+	
+	-webkit-border-top-right-radius: 6px;
+	-moz-border-radius-topright: 6px;
+	border-top-right-radius: 6px;
+}
+.modal-header .close {
+	opacity: 0.8 !important;
+	color: #fff !important;
+}
+.clinica_nome small a {
+	color: #fff;
+	text-decoration: underline;
+}
+#modal_historico.posso_voltar {
+	left: 92% !important;
+	width: 400px !important;
+}
+#modal_historico .modal-body {
+	min-height: 385px;
+	overflow-y: scroll !important;
+}
+.ficha div {
+	min-height: 24px !important;
+}
+.label-tipo_atendimento-2 {
+	background-color: #EEEEEE !important;
+    color: #AAAAAA !important;
+}
+.navbar .brand {
+	font-size: 20px !important;
+	font-weight: bold;
+	padding: 13px 12px;
+	letter-spacing: -0.5px;
+	margin-right: 20px;
+	width: 55px;
+}
+.navbar .brand img {
+	float: left;
+}
+.navbar .brand span {
+	display:block;
+	width: 24px;
+	margin: 3px 0 0 7px;
+	float: left;
+}
+#modal_historico .modal-body hr, #modal_atendimentos .modal-body hr {
+	margin: 18px 0 -4px 0 !important;
+	border-width: 6px 0;
+	display: none;
+}
+.accordion-heading .accordion-toggle {
+	padding: 8px 18px;
+}
+.modal form {
+	margin-bottom: 0 !important;
+}
+.radio small {
+	color: #777;
+}
+.btn-mini [class^="icon-"], .btn-mini [class*=" icon-"] {
+	margin-top:2px;
+}
+
+.table-lancamento .btn-mini [class^="icon-"], .table-lancamento .btn-mini [class*=" icon-"] {
+
+}
+.table-lancamento .pull-right a i {
+	margin-top: 2px;
+}
+.table-lancamento td {
+	position: relative;
+}
+
+.link_paciente {
+	display:block;
+	margin-bottom: 20px;
+}
+.menor {
+	font-size:82%;
+}
+#accordion_procedimentos {
+	position: relative;
+}
+#accordion_procedimentos .accordion-group {
+	background: #ECF0F1;
+	margin-bottom: 16px;
+	clear: both;
+	float: left;
+	width: 100%;
+}
+#accordion_procedimentos .well {
+	box-shadow: none !important;
+	padding: 8px 19px 10px 19px;
+	margin-bottom: 0 !important;
+	border-radius: 0;
+}
+#accordion_procedimentos .accordion-inner {
+	padding: 12px 0 0 0;
+}
+#accordion_procedimentos .tit_convenio {
+	/*text-indent: -9999px;
+	overflow: hidden;
+	margin-bottom: -20px;*/
+	/*margin-top: 0;
+	display: none;*/
+	
+}
+#accordion_procedimentos .accordion-heading {
+	-webkit-border-radius: 6px;
+	   -moz-border-radius: 6px;
+	        border-radius: 6px;
+	background: #33485d;
+}
+#accordion_procedimentos .accordion-heading:hover {
+	background: #3E5771;
+}
+#accordion_procedimentos .ac_in .accordion-heading {
+	-webkit-border-bottom-right-radius: 0;
+	-moz-border-radius-bottomright: 0;
+	border-bottom-right-radius: 0;
+	
+	-webkit-border-bottom-left-radius: 0;
+	-moz-border-radius-bottomleft: 0;
+	border-bottom-left-radius: 0;
+}
+#accordion_procedimentos h5.tit_procedimento {
+	font-size: 17px;
+	position: relative;
+	margin-top:0px;
+	margin-bottom: 0px;
+	padding: 10px 0;
+	
+	color: #fff;
+}
+.tit_procedimento i.icon-question-sign {
+	position: absolute;
+	top:37%;
+	right: 20px;
+}
+#accordion_procedimentos h5.tit_procedimento a {
+	color: #fff;
+}
+
+#accordion_procedimentos.condicao_3_0 .tit_convenio {
+	display: none;
+}
+#modal_convenio_novo.condicao_3_0 .tipo_convenio_v_1,
+#modal_convenio_novo.condicao_3_0 .tipo_convenio_v_3 {
+	display: none;
+}
+#modal_convenio_novo.condicao_1_0 .tipo_convenio_v_3,
+#modal_convenio_novo.condicao_2_0 .tipo_convenio_v_3 {
+	display: none;
+}
+
+.in .accordion-inner {
+	border-top: 0;
+}
+
+
+.tab-content-lancamento {
+	overflow: visible !important;
+	min-height: 400px;
+}
+.well {
+	box-shadow: 1px 1px 2px #ccc;	
+	-webkit-box-shadow: 1px 1px 2px #ccc;
+	-moz-box-shadow: 1px 1px 2px #ccc;
+}
+.well-1 .table-striped tbody > tr:nth-child(2n+1) > td, .well-1 .table-striped tbody > tr:nth-child(2n+1) > th {
+	background: #CEF6EF;
+	border-top:0;
+}
+.well-1 .table th {
+	border-top:0;
+}
+
+.well-1 {
+	background: #E2FAF5 !important;
+}
+.well-1 .table td {
+	border-top: 0;
+}
+
+.well {
+	padding: 14px 19px;
+}
+.well-lancamento {
+	position: relative;
+}
+.well-lancamento table {
+	margin-bottom: 0;
+}
+.well-lancamento h5.tit_convenio {
+	margin-bottom: 12px;
+}
+tfoot th p {
+	margin-bottom: 0;
+}
+.tarjeta {
+	background:#33485d;
+	position: fixed;
+	bottom:0;
+	left:0;
+	color: #fff;
+	min-width: 200px;
+	padding: 6px 20px;
+	text-align: right;
+	border-top-right-radius: 8px;
+}
+.flexinha {
+	position: absolute;
+	top: 10px;
+	right: 140px;
+	font-size: 16px;
+	display: none;
+}
+.ultima_alteracao {
+	position: absolute;
+	top: 5px;
+	right: 190px;
+	font-size: 10px;
+}
+
+.label, .badge {
+	display: inherit !important;
+	font-weight: normal !important;
+	background: #b4bcc2;
+	color: #888 !important;
+	border: 1px solid #b4bcc2;
+	background: none;
+}
+.btn-remove_procedimento {
+	margin-top: -40px;
+	margin-right: 10px;
+}
+
+.table-lancamento th, .table-lancamento td {
+	padding: 2px 3px !important;
+}
+
+.btn-remove-vm {
+	margin-top: 7px;
+}
+.day-number, .day-number-no-link a {
+	padding: 10px 5px !important;
+}
+.day-number, .day-number .badge, .day-number-no-link a {
+	font-size:12px !important;
+}
+.day-number-no-link a:hover {
+	background: #efefef;
+	text-decoration: none;
+}
+td.calendar-day {
+	padding: 0 !important;
+}
+.calendar-day a {
+	display: block;
+}
+.hoje {
+	background-color: #D0D5D9 !important;
+}
+.hoje * {
+	color: #333 !important;
+}
+.hoje a:hover {
+	background-color: #C0C6CB;
+}
+.lancamento_quantidade.input-mini {
+	text-align: center;
+	width: 30px;
+	padding: 6px 5px !important;
+	font-size: 18px !important;
+	margin: 0 -3px 0 0 !important;
+	border-radius: 0 !important;
+}
+.navbar-inner {
+	min-height: 46px;
+	border-radius:0;
+}
+
+a:hover {
+	text-decoration: none !important;
+}
+/* ---------------------------------------------- */
+
+.modal {
+	border: none !important;
+	box-shadow: 0 3px 7px rgba(0, 0, 0, 0.2) !important;
+	-webkit-box-shadow: 0 3px 7px rgba(0, 0, 0, 0.2) !important;
+	-moz-box-shadow: 0 3px 7px rgba(0, 0, 0, 0.2) !important;
+	
+	width: 700px !important;
+	margin-left: -350px !important;	
+	transition: opacity 0.2s linear 0.2s, top 0.2s linear 0.2s;
+}
+.modal.fade.in {
+	top: 9% !important;
+}
+
+.modal .input-prepend input, .modal .input-append input {
+	width:50px !important;
+}
+/*
+.input-prepend input, .input-append input, .input-prepend input[class*="span"], .input-append input[class*="span"] {
+	width: 60px !important;
+}*/
+
+
+body.pg_login .container {
+	
+}
+.container-relative {
+	position: relative;
+	background: #fff;
+	/*display: none;*/
+}
+.span_esqueci {
+	margin-top: 0px !important;
+	text-align: right;
+	line-height: 27px;
+}
+#resultado_fim h1, #resultado_fim h2, #resultado_fim h3, #resultado_fim h4, #resultado_fim h5, #resultado_fim h6 {
+	margin: 0px 0;
+}
+#resultado_fim hr {
+	margin: 10px 0;	
+}
+#resultado_fim h4 {
+	font-size:22px;
+}
+.tit_login {
+	margin: 13px 0 5px 0;
+	font-size: 40px;
+}
+.logo {
+	margin: 20px 0 30px 0;
+}
+.caixa_login, .caixa_cadastro {
+	margin: 0 auto;
+	max-width: 700px;
+	min-height: 280px;
+	
+	padding: 19px 29px 29px;
+	margin: 0 auto 20px;
+	
+	/*background-color: #fff;
+	border: 1px solid #e5e5e5;
+	-webkit-border-radius: 5px;
+	   -moz-border-radius: 5px;
+	        border-radius: 5px;
+	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+	   -moz-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+	        box-shadow: 0 1px 2px rgba(0,0,0,.05); */
+}
+.caixa_cadastro {
+	max-width: 960px;
+}
+
+#calendario .icon-lock {
+	
+}
+
+.icon-remove {
+	background-position: -312px 1px !important;
+}
+
+.caixa_login_erro {
+	width: 700px;
+	margin-top: 20px !important;
+}
+.negrito {
+	border-bottom: 1px solid #ccc;
+}
+
+.caixa_login h3 {
+	margin-bottom: 25px;
+}
+.form-signin input[type="text"],
+.form-signin input[type="email"],
+.form-signin input[type="password"] {
+	font-size: 16px;
+	height: auto;
+	margin-bottom: 15px;
+	padding: 7px 9px;
+}
+.link_prontuario {
+	background: #14A68C;
+}
+
+#topo {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 100;
+	
+	box-shadow: -1px 1px 2px rgba(0, 0, 0, 0.3);
+	-webkit-box-shadow: -1px 1px 2px rgba(0, 0, 0, 0.3);
+	-moz-box-shadow: -1px 1px 2px rgba(0, 0, 0, 0.3);
+}
+.calendario_container {
+	position: relative;
+	padding-top: 12px;
+}
+.calendario_container i {
+	display: inline-block;
+	margin-top: 2px !important;
+}
+.calendario_container .btn, .calendario_container .dropdown-menu > li > a {
+	padding-left: 15px !important;
+}
+#calendario {
+	width: 90%;
+	padding: 0 5%;
+	height: 320px;
+}
+#calendario.in {
+	margin-bottom: 20px;
+	background: #fff;
+}
+#calendario table {
+	width: 100%;
+	margin-top:10px;
+}
+.select2-choices, #intervalo {
+	background-image: url(images/icd.png) !important;
+ 	background-repeat: no-repeat !important;
+ 	background-position: right !important;
+	
+}
+.calendario thead .btn-group {
+	width: 100%;
+}
+#calendario table th {
+	font-size:12px;
+}
+#calendario table th.calendar-day-head {
+	text-align: right;
+}
+
+.mes_atual {
+	width: 40%;
+	color: #555 !important;
+}
+.calendar-day {
+	text-align: right;
+	padding: 12px 5px !important;
+}
+.dropdown-menu > li > a {
+	padding: 5px 20px;
+}
+.dia_atual {
+	font-weight: bold;
+}
+.tem_dados a {
+	/*background: #900 !important;*/
+	color: black !important;
+}
+
+.distribuicao {
+	text-align: center !important;
+}
+.btn-mais, .btn-zera, .btn-lista {	
+	
+	padding: 9px 16px 5px 16px;
+
+}
+
+.btn.novo_convenio, .btn.alterar_convenio,
+.btn.novo_procedimento, .btn.alterar_procedimento {
+	opacity: 0.3;
+}
+.btn.novo_convenio:hover, .btn.alterar_convenio:hover,
+.btn.novo_procedimento:hover, .btn.alterar_procedimento:hover {
+	opacity: 0.8;
+}
+
+.btn.btn-info:active {
+	background: #357BAB !important;
+}
+
+.btn:active, .btn.active {
+	margin-top: 1px;
+	margin-bottom: -1px;
+	opacity: 1 !important;
+	/*box-shadow: 0 0 0 1px rgba(53, 123, 171, 0.15) inset, 0 0 6px rgba(53, 123, 171, 0.2) inset;*/
+}
+
+
+.btn.btn-exclui_convenio:active {
+	margin-top: 7px;
+}
+.well_fim {
+	padding-top: 20px !important;
+	padding-bottom: 20px !important;
+}
+
+.btn-mais {
+	margin-right: -3px;
+	
+	-webkit-border-top-right-radius: 0;
+	-moz-border-radius-topright: 0;
+	border-top-right-radius: 0;
+	
+	-webkit-border-bottom-right-radius: 0;
+	-moz-border-radius-bottomright: 0;
+	border-bottom-right-radius: 0;
+}
+.btn-zera, .btn-lista {
+	
+	-webkit-border-top-left-radius: 0;
+	-moz-border-radius-topleft: 0;
+	border-top-left-radius: 0;
+	
+	-webkit-border-bottom-left-radius: 0;
+	-moz-border-radius-bottomleft: 0;
+	border-bottom-left-radius: 0;
+}
+.mr {
+	
+}
+.ato .table td strong.mr a {
+	color: #000 !important;
+}
+
+.label.label-mini {
+	display: inline-block !important;
+	padding: 3px 6px;
+	font-size: 10.5px;
+}
+
+#atendimentos p.muted {
+	margin-bottom: 5px;
+}
+#resultado_fim .muted {
+	color: #999 !important;
+}
+
+/*
+.input-large {
+  width: 50px;
+  height: 34px !important;
+  margin-bottom: 10px !important;
+  line-height: 40px !important;
+  padding: 11px 19px !important;
+  font-size: 34px !important;
+  text-align: center;
+
+}*/
+
+.atos_2.nav-tabs {
+	border-bottom: 0;
+	border-top: 1px solid #ddd;
+}
+
+.atos_2.nav-tabs > li {
+	margin-top: -1px;
+}
+.atos_2.nav-tabs > li > a {
+	border-radius: 0 0 4px 4px;
+	border-bottom: 1px solid #efefef;
+	border-top: none;
+}
+
+.atos_2.nav-tabs > li.active > a, .atos_2.nav-tabs > li.active > a:hover {
+	border-color: #fff #ddd #ddd #ddd;
+}
+
+.atos_2.nav-tabs > li > a:hover {
+	border-color: #ddd #fff #fff #fff;
+}
+
+/* ------------------------------------------- */
+
+.clinica-nome {
+	font-weight: bold;
+}
+.clinica-endereco {
+	font-size: 14px;
+}
+.clinica-cidade {
+	float: right;
+	font-style: italic;
+}
+
+.twitter-typeahead {
+	width: 100% !important;
+}
+.twitter-typeahead input {
+	width: 100%;
+}
+
+.well {
+	margin-bottom: 30px !important;
+}
+.botao_mostrar {
+	margin-top:32px; 
+}
+.btn.botao_mostrar:active {
+	margin-top:33px;
+}
+.silenciar_dv {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+#finalizar_lancamento i {
+	margin-top: 6px !important;
+}
+
+.nav-tabs li input[type="radio"], .nav-tabs li input[type="checkbox"] {
+	margin: 14px 0 0 0;
+	position: absolute;
+}
+.btn-group-block {
+	display: block;
+	width: 100%;
+}
+.btn-group-block .btn {
+	width: 49%;
+	margin-right: 1%;
+}
+.btn-group-block .btn_sair {
+	margin-right: 0;
+	margin-left: 1% !important;
+}
+
+.calendario_container .btn_plantao {
+	padding-left: 15px !important;
+	padding-right: 15px !important;
+}
+.calendario_container .btn_plantao i {
+	margin-top: 5px !important;
+}
+
+.celula1 {
+	width: 55%;	
+}
+.celula2 {
+	width: 45%;
+}
+
+.celula1b {
+	width: 55%;
+}
+.celula2b {
+	width: 45%;
+}
+
+.lancamento_container {
+	padding-top: 8px;
+}
+
+/* ------------------------------------------- */
+
+.fotinho {
+	margin-right: 8px !important;
+	line-height: 10px;
+}
+.nao_mostra {
+	display: none;
+}
+
+.current_caret {
+	position: absolute;
+	background: url(images/current_caret_on.png) no-repeat top center;
+	height: 11px;
+	width: 51px;
+	display: none;
+	margin-top: 0px;
+}
+
+.nav-tabs [class^="icon-"], .nav-pills [class^="icon-"], .nav-tabs [class*=" icon-"], .nav-pills [class*=" icon-"], .nav-tabs .icon-large[class^="icon-"], .nav-pills .icon-large[class^="icon-"], .nav-tabs .icon-large[class*=" icon-"], .nav-pills .icon-large[class*=" icon-"] {
+	line-height: 1.2em;
+	margin-right: 3px;
+}
